@@ -1,5 +1,7 @@
 ## API of a BLOG
 
+run "npm install" to install all the node packages
+
 This API have the next features:
 
 - Create a post with POST method (title, description, published_at, content, likes, state and image).
